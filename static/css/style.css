@@ -1,0 +1,7 @@
+div{
+    padding: 5px;
+}
+textarea{
+    resize: none;/*kita el modificador de la esquina*/
+    
+}
